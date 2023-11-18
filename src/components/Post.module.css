@@ -62,7 +62,7 @@
 }
 
 .commentForm {
-  width: 100%;  
+  width: 100%;
   margin-top: 1.5rem;
   padding-top: 1.5rem;
   border-top: 1px solid var(--gray-600);
@@ -116,5 +116,3 @@
 .commentList {
   margin-top: 2rem;
 }
-
-
